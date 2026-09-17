@@ -14,7 +14,6 @@
 ---
 
 ## 02. Screenshot Network Tab
-*(Silakan tempatkan file gambar screenshot Network Tab DevTools kamu di folder `week-01/` dengan nama `network-tab.png`)*
 
 ![Network Tab Screenshot](./network-tab.png)
 
